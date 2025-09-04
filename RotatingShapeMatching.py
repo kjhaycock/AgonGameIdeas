@@ -1,3 +1,5 @@
+#Important Note: Random shapes used for demo purposes, final game would use an array of shapes which would be cycled through to ensure it is deterministic.
+
 import pygame
 import sys
 import random
